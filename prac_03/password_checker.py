@@ -1,10 +1,12 @@
+MIN_LENGTH = 10
+
+
 def main():
-    get_password()
+    password = get_password()
     print_asterisks(password)
 
 
 def get_password():
-    MIN_LENGTH = 10
     password = input("input your password: ")
     while len(password) < MIN_LENGTH:
         print("The password does not reach the required length")
@@ -13,7 +15,8 @@ def get_password():
 
 
 def print_asterisks(password):
-    for char in password:
+    for _ in password:
         print("*", end="")
+
 
 main()
