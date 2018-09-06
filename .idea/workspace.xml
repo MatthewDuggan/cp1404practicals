@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a9fe2a5d-f8e0-455c-8d54-e7e08ade9c01" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_05/state_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac_05/state_names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_05/hexadecimal_colours.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac_05/hexadecimal_colours.py" afterDir="false" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/cp1404practicals$state_names.coverage" NAME="state_names Coverage Results" MODIFIED="1536197200948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_05" />
+    <SUITE FILE_PATH="coverage/cp1404practicals$state_names.coverage" NAME="state_names Coverage Results" MODIFIED="1536198109171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_05" />
     <SUITE FILE_PATH="coverage/cp1404practicals$test_2_testing.coverage" NAME="test_2_testing Coverage Results" MODIFIED="1533870443766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
     <SUITE FILE_PATH="coverage/cp1404practicals$quick_picks.coverage" NAME="quick_picks Coverage Results" MODIFIED="1535547689532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/cp1404practicals$write_name.coverage" NAME="write_name Coverage Results" MODIFIED="1534391322103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
@@ -21,6 +21,7 @@
     <SUITE FILE_PATH="coverage/cp1404practicals$string_formatting_examples.coverage" NAME="string_formatting_examples Coverage Results" MODIFIED="1534391084991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
     <SUITE FILE_PATH="coverage/cp1404practicals$stock_price_simulator.coverage" NAME="stock_price_simulator Coverage Results" MODIFIED="1534990674701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
     <SUITE FILE_PATH="coverage/cp1404practicals$testing.coverage" NAME="testing Coverage Results" MODIFIED="1534494327915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
+    <SUITE FILE_PATH="coverage/cp1404practicals$hexadecimal_colours.coverage" NAME="hexadecimal_colours Coverage Results" MODIFIED="1536198484052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_05" />
     <SUITE FILE_PATH="coverage/cp1404practicals$password_checker__1_.coverage" NAME="password_checker (1) Coverage Results" MODIFIED="1534991911160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
     <SUITE FILE_PATH="coverage/cp1404practicals$total_income.coverage" NAME="total_income Coverage Results" MODIFIED="1535541721153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/cp1404practicals$list_comprehensions.coverage" NAME="list_comprehensions Coverage Results" MODIFIED="1535544821830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
@@ -83,28 +84,28 @@
         <counts>
           <entry key="Python Console" value="190" />
           <entry key="gitignore" value="6" />
-          <entry key="py" value="4098" />
-          <entry key="txt" value="549" />
+          <entry key="py" value="4602" />
+          <entry key="txt" value="632" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="597" />
-          <entry key="Python" value="4246" />
+          <entry key="PLAIN_TEXT" value="680" />
+          <entry key="Python" value="4750" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="name_output" value="1" />
-          <entry key="py" value="23" />
+          <entry key="py" value="24" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="21" />
+          <entry key="Python" value="22" />
         </counts>
       </usages-collector>
     </session>
@@ -164,11 +165,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prac_05/state_names.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="289">
+              <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prac_05/hexadecimal_colours.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -212,6 +222,7 @@
         <option value="$PROJECT_DIR$/prac_04/quick_picks.py" />
         <option value="$PROJECT_DIR$/prac_04/.gitignore" />
         <option value="$PROJECT_DIR$/prac_05/state_names.py" />
+        <option value="$PROJECT_DIR$/prac_05/hexadecimal_colours.py" />
       </list>
     </option>
   </component>
@@ -274,7 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.state_names">
+  <component name="RunManager" selected="Python.hexadecimal_colours">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -309,6 +320,28 @@
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hexadecimal_colours" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cp1404practicals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_05/hexadecimal_colours.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -405,28 +438,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="total_income" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cp1404practicals" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_04" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_04/total_income.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -437,19 +448,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.total_income" />
       <item itemvalue="Python.list_exercises" />
       <item itemvalue="Python.list_comprehensions" />
       <item itemvalue="Python.quick_picks" />
       <item itemvalue="Python.state_names" />
+      <item itemvalue="Python.hexadecimal_colours" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hexadecimal_colours" />
         <item itemvalue="Python.state_names" />
         <item itemvalue="Python.quick_picks" />
         <item itemvalue="Python.list_comprehensions" />
         <item itemvalue="Python.list_exercises" />
-        <item itemvalue="Python.total_income" />
       </list>
     </recent_temporary>
   </component>
@@ -590,7 +601,21 @@
       <option name="project" value="LOCAL" />
       <updated>1536196453948</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Complete exercise">
+      <created>1536197248492</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1536197248493</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Enter dictionary of 10 hex colours and their codes">
+      <created>1536198228428</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1536198228428</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TodoView">
@@ -680,7 +705,9 @@
     <MESSAGE value="Add .gitignore file to repo" />
     <MESSAGE value="Copy code from original file" />
     <MESSAGE value="Copy raw code instead of default" />
-    <option name="LAST_COMMIT_MESSAGE" value="Copy raw code instead of default" />
+    <MESSAGE value="Complete exercise" />
+    <MESSAGE value="Enter dictionary of 10 hex colours and their codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Enter dictionary of 10 hex colours and their codes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -843,8 +870,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_05/state_names.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        <state relative-caret-position="289">
+          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_05/hexadecimal_colours.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
