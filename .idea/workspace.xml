@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9fe2a5d-f8e0-455c-8d54-e7e08ade9c01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/prac_05/state_names.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_05/state_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac_05/state_names.py" afterDir="false" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,6 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/cp1404practicals$state_names.coverage" NAME="state_names Coverage Results" MODIFIED="1536197200948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_05" />
     <SUITE FILE_PATH="coverage/cp1404practicals$test_2_testing.coverage" NAME="test_2_testing Coverage Results" MODIFIED="1533870443766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
     <SUITE FILE_PATH="coverage/cp1404practicals$quick_picks.coverage" NAME="quick_picks Coverage Results" MODIFIED="1535547689532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/cp1404practicals$write_name.coverage" NAME="write_name Coverage Results" MODIFIED="1534391322103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
@@ -82,14 +83,14 @@
         <counts>
           <entry key="Python Console" value="190" />
           <entry key="gitignore" value="6" />
-          <entry key="py" value="4001" />
-          <entry key="txt" value="472" />
+          <entry key="py" value="4098" />
+          <entry key="txt" value="549" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="520" />
-          <entry key="Python" value="4149" />
+          <entry key="PLAIN_TEXT" value="597" />
+          <entry key="Python" value="4246" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -166,8 +167,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/prac_05/state_names.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="68">
+              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -273,7 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.quick_picks">
+  <component name="RunManager" selected="Python.state_names">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -382,7 +383,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temperatures" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="state_names" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cp1404practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -390,12 +391,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temperatures.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_05/state_names.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -436,19 +437,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.temperatures" />
       <item itemvalue="Python.total_income" />
       <item itemvalue="Python.list_exercises" />
       <item itemvalue="Python.list_comprehensions" />
       <item itemvalue="Python.quick_picks" />
+      <item itemvalue="Python.state_names" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.state_names" />
         <item itemvalue="Python.quick_picks" />
         <item itemvalue="Python.list_comprehensions" />
         <item itemvalue="Python.list_exercises" />
         <item itemvalue="Python.total_income" />
-        <item itemvalue="Python.temperatures" />
       </list>
     </recent_temporary>
   </component>
@@ -575,7 +576,21 @@
       <option name="project" value="LOCAL" />
       <updated>1535595496400</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Copy code from original file">
+      <created>1536196292830</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1536196292830</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Copy raw code instead of default">
+      <created>1536196453948</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1536196453948</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView">
@@ -591,17 +606,17 @@
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26077098" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26077098" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32847682" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32847682" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39977852" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49755502" weight="0.32890365" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49755502" visible="true" weight="0.32847682" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49755502" weight="0.32847682" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Python Console" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502445" side_tool="true" weight="0.32890365" />
@@ -663,7 +678,9 @@
     <MESSAGE value="Refactored into main() function" />
     <MESSAGE value="Add docstring to function" />
     <MESSAGE value="Add .gitignore file to repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add .gitignore file to repo" />
+    <MESSAGE value="Copy code from original file" />
+    <MESSAGE value="Copy raw code instead of default" />
+    <option name="LAST_COMMIT_MESSAGE" value="Copy raw code instead of default" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -826,8 +843,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_05/state_names.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="68">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>
