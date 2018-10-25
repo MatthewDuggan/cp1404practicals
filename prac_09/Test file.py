@@ -1,13 +1,23 @@
 import os
 
-filename = "Angels from the Realm of Glory"
+filename = "ItIsWell (oh my soul).txt"
 
 new_file_name = ""
+new_file_name = new_file_name.replace(".TXT", ".txt")
+filename = filename.replace(".TXT", ".txt")
 for i in range(len(filename)):
-    if filename[i-1] == " ":
+    if filename[i - 1] == " ":
         new_file_name += filename[i].upper()
+    elif filename[i - 1] == " ":
+        new_file_name += filename[i].upper()
+    elif filename[i - 1] == "(":
+        new_file_name += filename[i].upper()
+    elif i > 0 and filename[i - 1].islower and filename[i].isupper():
+        new_file_name += "_"
+        new_file_name += filename[i]
     else:
         new_file_name += filename[i]
+new_file_name = new_file_name.replace(" ", "_")
 print(new_file_name)
 
 print(filename)
