@@ -1,9 +1,8 @@
 import os
 
-filename = "ItIsWell (oh my soul).txt"
-
+filename = "ItIsWell (oh my soul).TXT"
+print(filename)
 new_file_name = ""
-new_file_name = new_file_name.replace(".TXT", ".txt")
 filename = filename.replace(".TXT", ".txt")
 for i in range(len(filename)):
     if filename[i - 1] == " ":
@@ -20,4 +19,4 @@ for i in range(len(filename)):
 new_file_name = new_file_name.replace(" ", "_")
 print(new_file_name)
 
-print(filename)
+
