@@ -17,6 +17,5 @@ def main():
             except FileExistsError:
                 pass
         os.rename(filename, "{}/{}".format(extension, filename))
-    print(extensions)
 
 main()
