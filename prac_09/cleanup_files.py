@@ -34,7 +34,7 @@ def get_fixed_filename(filename):
             new_file_name += filename[i].upper()
         elif filename[i - 1] == "(":
             new_file_name += filename[i].upper()
-        elif i > 0 and filename[i - 1].islower and filename[i].isupper():
+        elif i > 0 and filename[i - 1].islower() and filename[i].isupper():
             new_file_name += "_"
             new_file_name += filename[i]
         else:
